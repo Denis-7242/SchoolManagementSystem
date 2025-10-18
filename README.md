@@ -2,6 +2,7 @@
 
 > A comprehensive and user-friendly **Java-based School Management System** designed to simplify administrative and academic tasks for schools, colleges, and universities.  
 > Built with ❤️ using **NetBeans**, following modular principles for easy maintenance and scalability.
+> Data structures and algorithms practice.
 
 ---
 
