@@ -41,6 +41,8 @@ SchoolManagementSystem/
 └── build/
     └── classes/
 
+---
+
 # ⚙️ Setup & Run Instructions
 
 ## 🧩 Prerequisites
