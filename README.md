@@ -1,7 +1,7 @@
 # 🎓 School Management System
 
 > A comprehensive and user-friendly **Java-based School Management System** designed to simplify administrative and academic tasks for educational institutions.  
-> Built with ❤️ using **NetBeans IDE**, following modular design principles for easy maintenance and scalability.  
+> Built with ❤️ using **NetBeans IDE** and **Visual Studio Code**following modular design principles for easy maintenance and scalability.  
 > A practical implementation showcasing **data structures and algorithms** in real-world applications.
 
 ---
@@ -101,7 +101,7 @@ Before running the project, ensure you have:
 
 #### **1. Clone the Repository**
 ```bash
-git clone https://github.com/yourusername/SchoolManagementSystem.git
+git clone https://github.com/Denis-7242/SchoolManagementSystem.git
 cd SchoolManagementSystem
 ```
 
